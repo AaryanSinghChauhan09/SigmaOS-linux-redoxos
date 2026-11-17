@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-redoxos"
-description = "Redox OS microkernel and Ion shell interoperability"
+description = "SigmaOS component: SigmaOS-linux-redoxos"
 version = "0.1.0"
 tier = 1
 
